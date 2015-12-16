@@ -2,4 +2,6 @@
 
 ### this is a project will show you how to do a complete project in a company.
 
-At first, I will show you a game for cards named pokerboaster first which palyed when I was young, 
+- requirement document and design requirement in the director document.
+- all the source of server contain product and testing source are in the directory server
+- all the files about client contain product and testing files are in the directory client 
